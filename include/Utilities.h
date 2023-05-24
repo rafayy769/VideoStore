@@ -11,7 +11,7 @@
 
 #pragma once
 
-#ifndef _UTILITIES_H1
+#ifndef _UTILITIES_H
 #define  _UTILITIES_H
 
 #include <string>
